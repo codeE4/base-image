@@ -1,0 +1,12 @@
+{
+  "name": "base",
+  "cloud": {
+    "provider": "vbox"
+  },
+  "containers": [
+    {
+      "name": "base",
+      "os": "images:debian/stretch"
+    }
+  ]
+}
